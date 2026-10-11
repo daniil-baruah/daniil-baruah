@@ -1,16 +1,28 @@
-## Hi there 👋
+# Привет! Я Даниил 👋 (GitHub: daniil-baruah)
 
-<!--
-**daniil-baruah/daniil-baruah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я Machine Learning разработчик, специализирующийся на классическом обучении с учителем (Supervised Learning) и глубоком анализе данных (Data Science). В программировании я уже 2.5 года, последние 12 месяцев полностью сфокусирован на сфере машинного обучения.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Мой технический стек
+* Среда разработки: Jupyter Notebook (.ipynb), Python
+* Анализ данных & EDA: Pandas, NumPy
+* Визуализация данных: Matplotlib, Seaborn
+* Машинное обучение: Scikit-Learn (sklearn)
+* Алгоритмы и Подходы: Регуляризация (Lasso/Ridge), ElasticNet с кросс-валидацией, метрические алгоритмы, линейные и древовидные модели классификации и регрессии.
+
+---
+
+## 📊 Моё ML-Портфолио в цифрах
+На моем локальном диске находится база из 68 практических проектов и 67 очищенных датасетов с платформы Kaggle. Мой профиль структурирован по типам используемых алгоритмов:
+
+* ml-linear-models: 15 проектов по линейной регрессии. Практика применения регуляризации (Ridge, Lasso) и ElasticNetCV.
+* ml-logistic-models: 15 проектов по логистической регрессии. Реализация классификации, оценка вероятностей и расчет метрик качества (Accuracy, Precision, Recall, F1-score).
+* ml-knn-models: 15 проектов по методу k-ближайших соседей. Работа с метриками расстояния и масштабированием признаков через StandardScaler.
+* ml-svm-models: 15 проектов по методу опорных векторов. Разделяющие гиперплоскости и классификация сложных структур данных.
+* ml-decision-trees: 6 проектов по одиночным деревьям решений. Анализ критериев Джини, энтропии и исследование переобучения моделей.
+
+---
+
+## 📬 Связь со мной
+* Цель: Ищу возможности для проведения авторских курсов по Machine Learning для подростков, технического менторства и стажировок в сфере Data Science.
